@@ -1,0 +1,4 @@
+Mysql -h localhost -u root -p Pomelo<Pomelo.sql
+
+导出：
+Mysqldump -h localhost -u root -p Pomelo>Pomelo1.sql
